@@ -501,6 +501,7 @@ C:\Users\olive\Downloads\Wellington_oliveira_de_araujo_AG_13\Hotel_Aconchego\Mau
 C:\Users\olive\Downloads\Wellington_oliveira_de_araujo_AG_13\Hotel_Aconchego\MauiAppHotel-master\MauiAppHotel\obj\Debug\net10.0-windows10.0.19041.0\win-x64\MauiAppHotel.AssemblyInfoInputs.cache
 C:\Users\olive\Downloads\Wellington_oliveira_de_araujo_AG_13\Hotel_Aconchego\MauiAppHotel-master\MauiAppHotel\obj\Debug\net10.0-windows10.0.19041.0\win-x64\MauiAppHotel.AssemblyInfo.cs
 C:\Users\olive\Downloads\Wellington_oliveira_de_araujo_AG_13\Hotel_Aconchego\MauiAppHotel-master\MauiAppHotel\obj\Debug\net10.0-windows10.0.19041.0\win-x64\MauiAppHotel.csproj.CoreCompileInputs.cache
+C:\Users\olive\Downloads\Wellington_oliveira_de_araujo_AG_13\Hotel_Aconchego\MauiAppHotel-master\MauiAppHotel\obj\Debug\net10.0-windows10.0.19041.0\win-x64\MauiAppHotel.sourcelink.json
 C:\Users\olive\Downloads\Wellington_oliveira_de_araujo_AG_13\Hotel_Aconchego\MauiAppHotel-master\MauiAppHotel\obj\Debug\net10.0-windows10.0.19041.0\win-x64\XamlC.stamp
 C:\Users\olive\Downloads\Wellington_oliveira_de_araujo_AG_13\Hotel_Aconchego\MauiAppHotel-master\MauiAppHotel\obj\Debug\net10.0-windows10.0.19041.0\win-x64\MauiAppH.7FE99260.Up2Date
 C:\Users\olive\Downloads\Wellington_oliveira_de_araujo_AG_13\Hotel_Aconchego\MauiAppHotel-master\MauiAppHotel\obj\Debug\net10.0-windows10.0.19041.0\win-x64\MauiAppHotel.dll
